@@ -7,8 +7,7 @@ body {
 
 .content {
     margin: auto;
-    max-width: 400px;
-    max-height: 100vh;
+    max-width: 500px;
     overflow: scroll;
     padding: 10px;
 }
@@ -30,6 +29,10 @@ body {
 
 #header {
     text-align: center;
+}
+
+a {
+    color: lightgray;
 }
 
 /* for testing purposes */

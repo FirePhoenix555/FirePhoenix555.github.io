@@ -1,5 +1,5 @@
 #selector-container {
-    position: absolute;
+    position: fixed;
     right: 0;
     margin: 10px;
 }
