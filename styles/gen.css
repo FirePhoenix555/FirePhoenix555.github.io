@@ -5,7 +5,7 @@ body {
     margin: 0;
 }
 
-#content {
+.content {
     margin: auto;
     max-width: 400px;
     max-height: 100vh;
