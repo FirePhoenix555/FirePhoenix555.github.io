@@ -1,0 +1,24 @@
+#selector-container {
+    position: absolute;
+    right: 0;
+    margin: 10px;
+}
+
+.selector {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+}
+
+.selector:focus {
+    background: white;
+    color: darkgray;
+}
+
+.content {
+    display: none;
+}
+
+:target {
+    display: block;
+}
