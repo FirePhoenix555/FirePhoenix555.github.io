@@ -1,0 +1,9 @@
+body {
+    background: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+}
+
+/* for testing purposes */
+/* * { border: 1px solid white; } */
