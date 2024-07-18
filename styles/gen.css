@@ -35,5 +35,10 @@ a {
     color: lightgray;
 }
 
+a:focus {
+    background: white;
+    color: darkgray;
+}
+
 /* for testing purposes */
 /* * { border: 1px solid white; } */
