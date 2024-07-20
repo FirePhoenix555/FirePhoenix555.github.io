@@ -48,15 +48,15 @@
 }
 
 #en > .header {
-    width: 6ch;
-    animation-timing-function: steps(6, end);
-    animation-duration: 750ms;
+    width: 7ch;
+    animation-timing-function: steps(7, end);
+    animation-duration: 875ms;
 }
 
 #la > .header {
-    width: 3ch;
-    animation-timing-function: steps(3, end);
-    animation-duration: 375ms;
+    width: 4ch;
+    animation-timing-function: steps(4, end);
+    animation-duration: 500ms;
 }
 
 .contact-list > li {
