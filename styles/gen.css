@@ -61,6 +61,15 @@ a:focus {
     color: darkgray;
 }
 
+::-moz-selection, ::selection {
+    background: white;
+    color: darkgray;
+}
+
+a::-moz-selection, a::selection {
+    color: gray;
+}
+
 @keyframes fade {
     from {
         opacity: 0;
