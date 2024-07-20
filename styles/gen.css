@@ -1,6 +1,6 @@
 body {
-    background: black;
-    color: white;
+    background: rgb(26, 26, 26);
+    color: rgb(237, 237, 237);
     font-family: 'Courier New', Courier, monospace;
     font-size: 14px;
     margin: 0;
@@ -42,8 +42,8 @@ body {
 }
 
 .nav-button:focus {
-    background: white;
-    color: darkgray;
+    background: rgb(237, 237, 237);
+    color: rgb(120, 120, 120);
 }
 
 .header {
@@ -59,17 +59,17 @@ a {
 }
 
 a:focus {
-    background: white;
-    color: darkgray;
+    background: rgb(237, 237, 237);
+    color: rgb(120, 120, 120);
 }
 
 ::-moz-selection, ::selection {
-    background: white;
-    color: darkgray;
+    background: rgb(237, 237, 237);
+    color: rgb(87, 87, 87);
 }
 
 a::-moz-selection, a::selection {
-    color: gray;
+    color: rgb(120, 120, 120);
 }
 
 @keyframes fade {

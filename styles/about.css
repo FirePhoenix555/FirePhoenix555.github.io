@@ -12,8 +12,8 @@
 }
 
 .selector:focus {
-    background: white;
-    color: darkgray;
+    background: rgb(237, 237, 237);
+    color: rgb(120, 120, 120);
 }
 
 .content {
