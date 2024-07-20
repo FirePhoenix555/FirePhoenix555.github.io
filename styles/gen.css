@@ -14,7 +14,7 @@ body {
 
 .content {
     margin: auto;
-    width: 500px;
+    width: max(500px, 65%);
     max-width: min(750px, 80%);
     overflow: scroll;
     padding: 10px;
