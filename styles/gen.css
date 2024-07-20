@@ -80,6 +80,11 @@ a::-moz-selection, a::selection {
     color: rgb(120, 120, 120);
 }
 
+.ipa {
+    font-family: monospace;
+    font-weight: normal;
+}
+
 @keyframes fade {
     from {
         opacity: 0;
