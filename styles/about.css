@@ -23,6 +23,19 @@
     display: block;
 }
 
+:target ~ #no-language {
+    display: none;
+}
+
+#no-language {
+    text-align: center;
+    height: 50%;
+    margin: auto;
+    position: absolute;
+    top: 100px;
+    left: 25%;
+}
+
 .header {
     animation-name: typewriter;
     overflow-x: hidden;
