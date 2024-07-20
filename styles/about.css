@@ -58,3 +58,7 @@
     animation-timing-function: steps(3, end);
     animation-duration: 375ms;
 }
+
+.contact-list > li {
+    margin: 5px;
+}

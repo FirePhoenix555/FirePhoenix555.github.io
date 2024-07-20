@@ -89,6 +89,10 @@ a::-moz-selection, a::selection {
     display: inline-block;
 }
 
+li {
+    margin: 10px;
+}
+
 @keyframes fade {
     from {
         opacity: 0;
