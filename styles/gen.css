@@ -1,8 +1,14 @@
+@font-face {
+    font-family: 'Cutive Mono';
+    src: url('/CutiveMono-Regular.ttf');
+}
+
 body {
     background: rgb(26, 26, 26);
     color: rgb(237, 237, 237);
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Cutive Mono', 'Courier New', Courier, monospace;
     font-size: 14px;
+    font-weight: bold;
     margin: 0;
 }
 
