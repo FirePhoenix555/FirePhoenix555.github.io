@@ -71,5 +71,11 @@ a:focus {
     }
 }
 
+@keyframes typewriter {
+    from {
+        width: 0;
+    }
+}
+
 /* for testing purposes */
 /* * { border: 1px solid white; } */
