@@ -85,6 +85,10 @@ a::-moz-selection, a::selection {
     font-weight: normal;
 }
 
+.nobreak {
+    display: inline-block;
+}
+
 @keyframes fade {
     from {
         opacity: 0;
